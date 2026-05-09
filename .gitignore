@@ -1,0 +1,9 @@
+# Ignore generated outputs and local database
+__pycache__/
+*.pyc
+.env
+data/
+outputs/
+notebooks/
+serviceAccountKey.json
+*.pem
